@@ -1,0 +1,18 @@
+<div id="user-nearby-list-view">
+   <h2>Subscribers</h2>
+
+   <div class="touch-area" hm-pinch="pinch($event)" >
+
+      <ul hm-swipe="swipe($event)">
+         <div ui-view="detail"></div>
+         <li ng-repeat="(userId, user) in userList">
+            <img ng-src="{{user.photo.size_s}}" alt="{{user.login}}"/>
+            <a ui-sref="app.user-nearby-list.detail({id: userId})"> {{user.login}}</a>
+
+            <p ng-show="pinchOut"> {{user.nadpis}}</p>
+         </li>
+         <a href="" ng-click="signOut()">Click to sign out</a>
+      </ul>
+   </div>
+
+</div>

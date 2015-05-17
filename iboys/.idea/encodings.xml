@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../dagIntranet/dagFrontendIntranet/app/scripts/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bower.json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/css/index.css" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/app.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/controller/AuthorizationController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/controller/UserNearbyListController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/controller/UserNearbyListDetailController.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/dto/Identity.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/lib/hammer.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/service/AuthorizationService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/service/LocationService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/js/service/UserService.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/view/content.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/view/denied.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/view/footer.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/view/restricted.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/view/user-nearby-list-detail.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/www/view/user-nearby-list.html" charset="UTF-8" />
+  </component>
+</project>
